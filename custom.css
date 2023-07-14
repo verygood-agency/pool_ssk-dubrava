@@ -1,35 +1,35 @@
 
 @font-face {
     font-family:'pfagoraslabpro-black';
-    src: url("../fonts/mainFonts/pfagoraslabpro-black.ttf");
+    src: url("fonts/mainFonts/pfagoraslabpro-black.ttf");
 }
 @font-face {
     font-family:'pfagoraslabpro-bold';
-    src: url("../fonts/mainFonts/pfagoraslabpro-bold.ttf");
+    src: url("fonts/mainFonts/pfagoraslabpro-bold.ttf");
 }
 @font-face {
     font-family:'pfagoraslabpro-light';
-    src: url("../fonts/mainFonts/pfagoraslabpro-light.ttf");
+    src: url("fonts/mainFonts/pfagoraslabpro-light.ttf");
 }
 @font-face {
     font-family:'pfagoraslabpro-medium';
-    src: url("../fonts/mainFonts/pfagoraslabpro-medium.ttf");
+    src: url("fonts/mainFonts/pfagoraslabpro-medium.ttf");
 }
 @font-face {
     font-family:'pfagoraslabpro-reg';
-    src: url("../fonts/mainFonts/pfagoraslabpro-reg.ttf");
+    src: url("fonts/mainFonts/pfagoraslabpro-reg.ttf");
 }
 @font-face {
     font-family:'pfagoraslabpro-thin';
-    src: url("../fonts/mainFonts/pfagoraslabpro-thin.ttf");
+    src: url("fonts/mainFonts/pfagoraslabpro-thin.ttf");
 }
 @font-face {
     font-family:'roboto-bold';
-    src: url("../fonts/mainFonts/roboto-bold.ttf");
+    src: url("fonts/mainFonts/roboto-bold.ttf");
 }
 @font-face {
     font-family:'roboto-light';
-    src: url("../fonts/mainFonts/roboto-light.ttf");
+    src: url("fonts/mainFonts/roboto-light.ttf");
 }
 
 
